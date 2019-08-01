@@ -1,6 +1,6 @@
 body {
-    background: rgb(60, 163, 0);
-    color: gold;
+    background: #346830;
+    color: #211a28;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,4 +12,10 @@ img {
 a {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
+    color: #f9c233;
+    text-decoration: none;
+}
+
+h2 {
+    color: #f9c233;
 }
